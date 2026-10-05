@@ -1,0 +1,2 @@
+# Track all geojson files with Git LFS
+*.geojson filter=lfs diff=lfs merge=lfs -text
